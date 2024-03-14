@@ -21,8 +21,14 @@ def propernaming(string):
     return propername
 
 
+
+@app.route("/")
+def home():
+    
+    return "Welcome, , to my CSCB20 website!"
+
 @app.route("/<username>")
-def home(username):
+def homevariable(username):
     encrpted= ""
     if username.isalpha():
         if username.isupper():
