@@ -1,0 +1,25 @@
+header{
+    position: absolute;
+    z-index: 50;
+    font-size: 24px;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+}
+#div_flexbox{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 3vh;
+    border: inset 5px black;
+    border-radius: 2px;
+}
+#div_homepage_body{
+    margin-top:100px;
+
+}
+a:hover{
+    color:red;
+    transition: all 0.5s;
+}
