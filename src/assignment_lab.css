@@ -56,6 +56,7 @@ header a{
     padding:10px;
     border-radius: 10px;
     background-color: #dfd3c3;
+    transition: all 0.5s;
 }
 
 header a:hover{
@@ -71,11 +72,24 @@ footer a{
     padding:10px;
     border-radius: 10px;
     background-color: #dfd3c3;
+    transition: all 0.5s;
 }
 
 footer a:hover{
     background-color:#844721;
     color:#dfd3c3;
+    transition: all 0.5s;
+}
+
+
+#div_homepage_body a{
+    color:#007fa3;
+    transition: all 0.5s;
+
+}
+
+#div_homepage_body a:hover{
+    color: #844721;
     transition: all 0.5s;
 }
 

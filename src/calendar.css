@@ -56,11 +56,13 @@ a{
     padding:10px;
     border-radius: 10px;
     background-color: #dfd3c3;
+    transition: all 0.5s;
 }
 
 a:hover{
     background-color:#844721;
     color:#dfd3c3;
+    transition: all 0.5s;
     transition: all 0.5s;
 }
 

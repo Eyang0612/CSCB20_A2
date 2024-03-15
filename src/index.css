@@ -45,19 +45,50 @@ font-size: 24px;
     border-radius: 20px;
     margin-bottom:10vh;
 }
-a{
+header a{
     color:#605a56;
     text-align:center;
     padding:10px;
     border-radius: 10px;
     background-color: #dfd3c3;
+    transition: all 0.5s;
 }
 
-a:hover{
+header a:hover{
     background-color:#844721;
     color:#dfd3c3;
     transition: all 0.5s;
 }
+
+
+footer a{
+    color:#605a56;
+    text-align:center;
+    padding:10px;
+    border-radius: 10px;
+    background-color: #dfd3c3;
+    transition: all 0.5s;
+}
+
+footer a:hover{
+    background-color:#844721;
+    color:#dfd3c3;
+    transition: all 0.5s;
+}
+
+#div_homepage_body a{
+    font-size: 24px;
+    color:#007fa3;
+    transition: all 0.5s;
+
+}
+
+#div_homepage_body a:hover{
+    color: #844721;
+    transition: all 0.5s;
+}
+
+
 
 #current_header{
     background-color:#605a56;
