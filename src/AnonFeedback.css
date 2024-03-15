@@ -7,7 +7,6 @@ body{
     padding: 20px;
     padding-bottom: 0;
     box-sizing: border-box;
-    height: 100vh;
 }
 
 
@@ -37,16 +36,16 @@ font-size: 24px;
 }
 .first_body{
     margin-top:150px;
-    
+
 }
 #div_homepage_body{
     
     background-color:#fff8ee;
     padding: 20px;
     border-radius: 20px;
-    margin-bottom:30vh;
+    margin-bottom:10vh;
 }
-header a{
+a{
     color:#605a56;
     text-align:center;
     padding:10px;
@@ -54,24 +53,12 @@ header a{
     background-color: #dfd3c3;
 }
 
-header a:hover{
+a:hover{
     background-color:#844721;
     color:#dfd3c3;
     transition: all 0.5s;
-}
-footer a{
-    color:#605a56;
-    text-align:center;
-    padding:10px;
-    border-radius: 10px;
-    background-color: #dfd3c3;
 }
 
-footer a:hover{
-    background-color:#844721;
-    color:#dfd3c3;
-    transition: all 0.5s;
-}
 #current_header{
     background-color:#605a56;
     color:#dfd3c3;
@@ -91,6 +78,11 @@ th, td {
    
   }
 
+textarea{
+    width: 100%;
+    height: 300px;
+}
+
 footer {
     position: relative;
     left: 0;
@@ -101,6 +93,20 @@ footer {
     padding: 20px;
     border-radius: 10px;
  }
+ button{
+    color:#605a56;
+    text-align:center;
+    padding:10px;
+    border-radius: 10px;
+    background-color: #dfd3c3;
+}
+
+button:hover{
+    background-color:#844721;
+    color:#dfd3c3;
+    transition: all 0.5s;
+}
+
 
 
  @media(max-width: 600px) {
