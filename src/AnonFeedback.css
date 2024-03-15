@@ -60,6 +60,12 @@ a:hover{
     transition: all 0.5s;
 }
 
+a:active{
+    border: inset 5px black;
+    transition: all 0.1s
+
+}
+
 #current_header{
     background-color:#605a56;
     color:#dfd3c3;
@@ -86,6 +92,10 @@ textarea{
 
 footer {
     position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     left: 0;
     bottom: 0;
     right: 0;
