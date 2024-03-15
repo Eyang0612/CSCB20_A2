@@ -1,0 +1,1 @@
+"As a student user, on LABS AND ASSIGNMENTS page, the student should find the posted assignments and labs. The student should also find the due date for every assignment and lab.  Furthermore, the student should find the marks for assignments and labs if they have been graded and the lab solution if the date passes the lab due date."

@@ -1,0 +1,1 @@
+“As a student user, on the STAFF and Instructor page, the student should find the instructor’s name, email, and picture. On top of that, there is also office hour information including the person’s name (instructor or TA) that hosts the office hour, corresponding time, and location."

@@ -1,0 +1,1 @@
+“As a student user, the student can choose 8 links in total on the top of all webpages ’, which hovering over it will change colours. By clicking one of them, the student will be redirected to the corresponding webpage.”

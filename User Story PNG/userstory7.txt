@@ -1,0 +1,1 @@
+“As a student user, on ONLINE RESOURCE page, the student should find the links to Piazza and MarkUs which are provided a platform to discuss course contents online and to submit assignments."

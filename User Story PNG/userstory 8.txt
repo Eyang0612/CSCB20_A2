@@ -1,0 +1,1 @@
+“As a student user, on NEWS page, the student must be able to see the list of news/announcements posted by the staff and course instructor."
