@@ -19,6 +19,7 @@ header{
     left: 0;
     right: 0;
     height: auto;
+    border-bottom:1px solid #605a56;
 }
 #div_flexbox{
     display: flex;
@@ -27,6 +28,7 @@ header{
     background-color: #fff8ee;
     margin: 20px;
     padding: 20px;
+ 
     border-radius:20px;
 }
 #title{
